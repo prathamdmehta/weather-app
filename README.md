@@ -9,4 +9,4 @@ const APIKey = 'Your Api Key';
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
